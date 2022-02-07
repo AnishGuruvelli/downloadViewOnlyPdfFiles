@@ -27,7 +27,7 @@ Then you will find yourself inside the developer tools.
 
 
 
-## Download protected files/ view only from google drive without permission --> PDFs
+## Download protected files/ view only from google drive without permission --> Videos
 
 
 Steps to Download protected/view-only video files from google drive?
